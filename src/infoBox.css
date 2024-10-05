@@ -1,0 +1,10 @@
+.infoBox {
+  text-align: center;
+}
+.card_container {
+  display: flex;
+  justify-content: center;
+}
+.city{
+  margin-bottom: 50px;
+}
